@@ -12,20 +12,20 @@ For Dijkstra algorithm we implemented a priority queue class based on heaps.
 
 The graph input is stored in a file "Data/network.txt" with the following format:
 
-Buenos Aires > New York = 6 days
-Buenos Aires > Casablanca = 5 days
-Buenos Aires > Cape Town = 4 days
-New York > Liverpool = 4 days
-Liverpool > Casablanca = 3 days
-Liverpool > Cape Town = 6 days
-Casablanca > Liverpool = 3 days
-Casablanca > Cape Town = 6 days
-Cape Town > New York = 8 days
+* Buenos Aires > New York = 6 days
+* Buenos Aires > Casablanca = 5 days
+* Buenos Aires > Cape Town = 4 days
+* New York > Liverpool = 4 days
+* Liverpool > Casablanca = 3 days
+* Liverpool > Cape Town = 6 days
+* Casablanca > Liverpool = 3 days
+* Casablanca > Cape Town = 6 days
+* Cape Town > New York = 8 days
 
-Additional routes can be added to answer the requirement of "Your model/solution should be able to accept other network configurations."
-Also the direct routes of first question in "Data/routes.txt"
+Additional routes can be added.
+Also the direct routes are in "Data/routes.txt"
 
-Also the shortest path of second question in "Data/shortestPath.txt"
+Also the shortest path are in "Data/shortestPath.txt"
 
 The unit test project is self explanatory with the test cases names. It covers the questions and some other related to input errors.
 
