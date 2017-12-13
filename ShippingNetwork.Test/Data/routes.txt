@@ -1,0 +1,4 @@
+﻿Buenos Aires>New York>Liverpool
+Buenos Aires>Casablanca>Liverpool
+Buenos Aires>Cape Town>New York>Liverpool>Casablanca
+Buenos Aires>Cape Town>Casablanca

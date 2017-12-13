@@ -1,0 +1,9 @@
+Buenos Aires > New York = 6 days
+Buenos Aires > Casablanca = 5 days
+Buenos Aires > Cape Town = 4 days
+New York > Liverpool = 4 days
+Liverpool > Casablanca = 3 days
+Liverpool > Cape Town = 6 days
+Casablanca > Liverpool = 3 days
+Casablanca > Cape Town = 6 days
+Cape Town > New York = 8 days
